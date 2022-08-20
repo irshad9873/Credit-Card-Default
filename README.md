@@ -69,7 +69,7 @@ Model Prediction
 
 # Project Files Description
 
-[Credit-Card-Default-Prediction]https://github.com/anas084464/Credit-Card-Default-Prediction/blob/main/Copy_of_Credit_Card_Default_Prediction_Capstone_Project.ipynb) - Includes Exploratory Data Analysis and all algorithms which are used in this project.
+[Credit-Card-Default-Prediction]https://github.com/irshad9873/Credit-Card-Default/blob/main/Credit_Card_Default_Prediction_Capstone_Project.ipynb - Includes Exploratory Data Analysis and all algorithms which are used in this project.
 
 [credit card default prediction.pdf ]https://github.com/irshad9873/Credit-Card-Default/blob/main/CapstoneProjectTemplate-210213-230632%20(1).pptx Includes pdf of the presentation of the project.
 
